@@ -1,13 +1,22 @@
-# MinecraftTS
-[![Discord][discord_badge]][discord]
+<h1>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/minecraftts/.github/master/assets/icon.png" width="36">
+        MinecraftTS
+    </p>
+</h1>
+<p align="center">
+    <a href="https://discord.gg/rqFdAGe6VE">
+        <img src="https://img.shields.io/discord/1004125940735033425?color=%235865F2&label=Discord&logo=discord&logoColor=%23ffffff&style=flat" alt="Discord"></img>
+    </a>
+</p>
 
 MinecraftTS is an open-source project to recreate all Minecraft: Java Edition versions from 1.8 to 1.19 1:1, including required native bindings, protocol and realms.
 
-## Get involved
+## <p align="center">Get Involved</p>
 
 The best way to get involved is by joining our [**Discord**][discord]
 
-## Projects
+## <p align="center">Projects</p>
 
 * [**client**](https://github.com/minecraftts/client) - Minecraft client written in Typescript
 * [**server**](https://github.com/minecraftts/server) - Minecraft server written in Typescript
@@ -15,7 +24,7 @@ The best way to get involved is by joining our [**Discord**][discord]
 * [**node-opengl**](https://github.com/minecraftts/opengl) - node-opengl provides Node.js bindings to OpenGL
 * [**node-glfw**](https://github.com/minecraftts/glfw) - node-glfw provides Node.js bindings to GLFW
 
-## License
+## <p align="center">License</p>
 
 All code is licensed under the permissive [**MIT License**](https://github.com/minecraftts/.github/blob/master/LICENSE) unless otherwise stated.
 
